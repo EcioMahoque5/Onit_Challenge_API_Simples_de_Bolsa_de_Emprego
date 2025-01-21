@@ -398,9 +398,9 @@ job_board/
 │   ├── tests.py
 │   └── urls.py
 ├── manage.py
+├── requirements.txt
 .env
 venv/
-requirements.txt
 README.md
 
 
