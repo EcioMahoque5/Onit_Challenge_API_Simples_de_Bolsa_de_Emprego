@@ -1,0 +1,84 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.egg-info/
+*.eggs/
+
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+
+# Django
+*.log
+instance/
+media/
+staticfiles/
+static/
+.DS_Store
+
+# Environment variables
+.env
+
+# MySQL
+*.sql
+*.cnf
+*.mylogin.cnf
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Test outputs
+.coverage
+.tox/
+.cache/
+.pytest_cache/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+*.orig
+*.save
+
+# Python profiler output
+.prof
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pip and distribution files
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Migrations
+migrations/
